@@ -114,7 +114,7 @@ footer_menu_middle = "Product"
 footer_menu_right = "Support"
 footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
 # copyright
-copyright = "Design By and develop by [Ali26](https://ali26.com/)"
+copyright = "Design and develop by [Ali26](https://ali26.com/)"
 
 # Preloader
 [params.preloader]
