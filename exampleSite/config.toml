@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org/"
+baseURL = "http://TMC-academy.netlify.app/"
 title = "TMC academy"
 theme = "bigspring"
 languageName = "En"
@@ -104,7 +104,7 @@ logo = "images/logo.png"
 logo_width = "200px"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "ali26.dev"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 
@@ -112,7 +112,7 @@ contact_form_action = "#" # contact form works with https://formspree.io
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+footer_content = "Support cause you care about."
 # copyright
 copyright = "Design and develop by [Ali26](https://ali26.com/)"
 
