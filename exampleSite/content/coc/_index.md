@@ -1,5 +1,5 @@
 ---
-title: "Code of conduct"
+title: "Code of Conduct"
 subtitle: ""
 # meta description
 description: "This is meta description"
@@ -12,7 +12,7 @@ This code of conduct applies to all The Morse Code spaces, including our mailing
 
 Some The Morse Code spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
-### HARASSMENT INCLUDES:
+## HARASSMENT INCLUDES:
 
 1. Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.
 2. Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
@@ -39,7 +39,9 @@ The Morse Code prioritizes marginalized people’s safety over privileged people
 
 ## REPORTING
 
-If you are being harassed by a member of The Morse Code, notice that someone else is being harassed, or have any other concerns, please contact the leadership team at support@tmcacademy.com. **If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.**
+If you are being harassed by a member of The Morse Code, notice that someone else is being harassed, or have any other concerns, please contact the leadership team at [support@tmcacademy.com](#). **If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.**
+
+
 
 This code of conduct applies to The Morse Code spaces, but if you are being harassed by a member of The Morse Code outside our spaces, we still want to know about it. We will take all good faith reports of harassment by The Morse Code members, especially our leadership team, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from The Morse Code based on their past behavior, including behavior outside The Morse Code spaces and behavior towards people who are not in The Morse Code.
 
@@ -47,4 +49,4 @@ In order to protect volunteers from abuse and burnout, we reserve the right to r
 
 We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of The Morse Code members or the general public. We will not name harassment victims without their affirmative consent.
 
-Adapted from Geek Feminism's Community anti-harassment/Policy template
+Adapted from [Geek Feminism's Community anti-harassment/Policy](https://geekfeminism.wikia.org/wiki/Community_anti-harassment/Policy) template
