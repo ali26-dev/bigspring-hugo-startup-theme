@@ -87,12 +87,12 @@ URL = "#"
 
 # footer menu right
 [[menu.footer_right]]
-name = "Privacy Policy"
-URL = "privacy-policy"
+name = "Our Diverse Statement"
+URL = "diverse-statement"
 
 [[menu.footer_right]]
-name = "Terms & Conditions"
-URL = "terms-conditions"
+name = "Our Code of Conduct"
+URL = "coc"
 
 [[menu.footer_right]]
 name = "FAQ"
