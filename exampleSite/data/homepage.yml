@@ -1,6 +1,6 @@
 ####################### Banner #########################
 banner:
-  title : "Let's educate for those <br> who can't afford it"
+  title : "LETS EDUCATE TO THOSE <br> WHO CAN'T AFFORD IT"
   image : "images/banner-art.svg"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br>
    totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
@@ -36,12 +36,12 @@ feature:
       
     # feature item loop
     - name : "Diversity"
-      icon : "ti-headphone-alt"
+      icon : "ti-cloud-up"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
     - name : "Online"
-      icon : "ti-cloud-up"
+      icon : "ti-headphone-alt"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
 

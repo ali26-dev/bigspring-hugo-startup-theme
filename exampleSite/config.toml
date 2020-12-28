@@ -44,8 +44,8 @@ URL = "blog"
 weight = 1
 
 [[menu.main]]
-name = "Pricing"
-URL = "pricing"
+name = "About Us"
+URL = "about"
 weight = 2
 
 [[menu.main]]
@@ -61,28 +61,28 @@ weight = 4
 # footer menu left
 [[menu.footer_left]]
 name = "About Us"
-URL = "#"
+URL = "about"
 
 [[menu.footer_left]]
 name = "Quick Start"
 URL = "#"
 
 [[menu.footer_left]]
-name = "Pricing"
-URL = "pricing"
+name = "Contributers"
+URL = "#"
 
 
 # footer menu middle
 [[menu.footer_middle]]
-name = "Pricing"
-URL = "pricing"
-
-[[menu.footer_middle]]
-name = "Platform"
+name = "Sponsors"
 URL = "#"
 
 [[menu.footer_middle]]
-name = "Features"
+name = "Programs"
+URL = "#"
+
+[[menu.footer_middle]]
+name = "Donate us"
 URL = "#"
 
 # footer menu right
