@@ -87,11 +87,11 @@ URL = "#"
 
 # footer menu right
 [[menu.footer_right]]
-name = "Our Diverse Statement"
-URL = "diverse-statement"
+name = "Diversity Statement"
+URL = "diversity-statement"
 
 [[menu.footer_right]]
-name = "Our Code of Conduct"
+name = "Code of Conduct"
 URL = "coc"
 
 [[menu.footer_right]]
