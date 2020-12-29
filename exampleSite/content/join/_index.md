@@ -6,6 +6,7 @@ description: "This is meta description"
 draft: false
 
 feature:
+  enable : true
   title : "Something You Need To Know"
   feature_item:
     # feature item loop
