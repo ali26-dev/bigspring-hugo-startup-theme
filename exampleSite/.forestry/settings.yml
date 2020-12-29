@@ -36,6 +36,9 @@ sections:
 - type: document
   path: exampleSite/content/support/_index.md
   label: Support Us
+  type: document
+  path: exampleSite/content/join/_index.md
+  label: Join Us
 - type: document
   path: exampleSite/content/privacy-policy/_index.md
   label: Privacy Policy
