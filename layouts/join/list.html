@@ -1,6 +1,9 @@
 {{ define "main" }}
 {{ partial "page-header.html" . }}
 
+
+{{ if site.Data.homepage.feature.enable }}
+{{ with site.Data.homepage.feature }}
 <section class="section bg-light">
   <div class="container">
     <div class="row justify-content-center">
