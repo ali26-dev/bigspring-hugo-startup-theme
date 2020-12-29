@@ -25,7 +25,7 @@ feature:
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Transgenders"
+    - name : "LGBTQ"
       icon : "ti-alarm-clock"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
