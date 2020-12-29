@@ -1,5 +1,5 @@
 ---
-title: "Pricing"
+title: "Support Us"
 subtitle: ""
 # meta description
 description: "This is meta description"
