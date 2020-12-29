@@ -34,6 +34,9 @@ sections:
   path: exampleSite/content/pricing/_index.md
   label: Pricing
 - type: document
+  path: exampleSite/content/support-us/_index.md
+  label: Support Us
+- type: document
   path: exampleSite/content/privacy-policy/_index.md
   label: Privacy Policy
 - type: document
