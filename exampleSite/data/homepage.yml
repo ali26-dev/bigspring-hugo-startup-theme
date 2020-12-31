@@ -7,7 +7,7 @@ banner:
   button:
     enable : true
     label : "Join Us"
-    link : "contact"
+    link : "#"
 
 ##################### Feature ##########################
 feature:

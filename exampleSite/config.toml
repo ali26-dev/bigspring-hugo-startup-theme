@@ -38,15 +38,23 @@ link = "plugins/slick/slick.min.js"
 ############################## navigation ###############################
 
 # main menu
-[[menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 1
+
 
 [[menu.main]]
 name = "About Us"
 URL = "about"
 weight = 2
+
+
+[[menu.main]]
+name = "Our Programs"
+URL = "#"
+weight = 1
+
+[[menu.main]]
+name = "Team"
+URL = "#"
+weight = 1
 
 [[menu.main]]
 name = "Contact"
@@ -57,6 +65,12 @@ weight = 3
 name = "FAQ"
 URL = "faq"
 weight = 4
+
+
+[[menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 1
 
 # footer menu left
 [[menu.footer_left]]
@@ -124,8 +138,8 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation buttons
 [params.navigation_button]
 enable = true
-label = "Get Started"
-link = "contact"
+label = "Donate Us"
+link = "#"
 
   
 ############################# social site ########################
