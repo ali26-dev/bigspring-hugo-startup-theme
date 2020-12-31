@@ -41,10 +41,9 @@ link = "plugins/slick/slick.min.js"
 
 
 [[menu.main]]
-name = "Who Are We"
+name = "About Us"
 URL = "about"
 weight = 1
-
 
 [[menu.main]]
 name = "Our Programs"
@@ -61,15 +60,6 @@ name = "Contact"
 URL = "contact"
 weight = 4
 
-[[menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 5
-
-[[menu.main]]
-name = "FAQ"
-URL = "faq"
-weight = 6
 
 
 # footer menu left
@@ -78,8 +68,8 @@ name = "About Us"
 URL = "about"
 
 [[menu.footer_left]]
-name = "Quick Start"
-URL = "#"
+name = "Blog"
+URL = "blog"
 
 [[menu.footer_left]]
 name = "Contributers"
