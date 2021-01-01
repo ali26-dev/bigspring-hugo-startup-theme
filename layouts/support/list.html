@@ -83,13 +83,11 @@
         <img src="{{ .image | absURL }}" class="img-fluid">
       </div>
       <div class="col-lg-5 col-md-6">
-        <h2 class="section-title">{{ .title | markdownify }}</h2>
-        {{with .content }}<p class="mb-4">{{ . | markdownify }}</p>{{ end }}
-        {{ if .button.enable }}
-        {{ with .button }}
-        <a href="{{ .link | absURL }}" class="btn btn-primary">{{ .label }}</a>
-        {{ end }}
-        {{ end }}
+        <h2 class="section-title"><Title></Title>e</h2>
+        <p class="mb-4">gsdhgsh</p>
+        
+        <a href="{{ .link | absURL }}" class="btn btn-primary">label</a>
+        
       </div>
     </div>
   </div>
