@@ -4,7 +4,7 @@ subtitle: "An act of kindness however small is never wasted."
 # meta description
 description: "This is meta description"
 draft: false
-
+############################# -  pricing section -#################
 basic:
   name : "Become Our Partner"
   price: ""
@@ -48,6 +48,9 @@ business:
     label : "Join Us"
     link : "join"
 
+#################### -End Pricing -##########################
+
+###################### -custom Notable mentions-##################
 service:
   enable : true
   service_item:
@@ -93,9 +96,9 @@ service:
    #     label : "Check it out"
   #    link : "#"
         
+##########################- end notable mentions-#############
 
-
-
+##########################- call to action- ######################
 call_to_action:
   enable : true
   title : "Spread Our Cause"
@@ -105,4 +108,7 @@ call_to_action:
     enable : true
     label : "Share"
     link : "contact"
+
+########################  -End Call to action- #########################    
 ---
+

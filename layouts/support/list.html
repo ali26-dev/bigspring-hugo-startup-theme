@@ -73,8 +73,8 @@
 
 <!-- Custom section for Notable Mention -->
 
-{{ if .params.service.enable }}
-{{ with .params.service }}
+{{ if .param.service.enable }}
+{{ with .param.service }}
 {{ range $i,$p := .service_item }}
 {{if modBool $i 2}}
 <section class="section">
