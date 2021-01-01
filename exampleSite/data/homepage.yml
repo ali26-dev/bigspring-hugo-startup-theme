@@ -2,8 +2,8 @@
 banner:
   title : "LETS  EDUCATE  TO  THOSE  <br> WHO  CAN'T  AFFORD  IT"
   image : "images/banner-art.svg"
-  content : "The morse code academy (or simply called TMC) is a student-run NGO based in Karachi, Pakistan
-directly benefitting over hundreds of children every year, <br> through bi-weekly live welfare
+  content : "The morse code academy (or simply called TMC) is a student-run NGO based in Karachi, Pakistan <br>
+directly benefitting over hundreds of children every year, through bi-weekly live welfare
 projects on education, healthcare, livelihood and cleanliness."
   button:
     enable : true
