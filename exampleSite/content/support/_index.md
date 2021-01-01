@@ -6,7 +6,7 @@ description: "This is meta description"
 draft: false
 
 basic:
-  name : "Basic Plan"
+  name : "Become Our Partner"
   price: "$49"
   price_per : "month"
   info : "Best For Small Individuals"
@@ -16,11 +16,11 @@ basic:
   - "Time-Critical Services"
   button:
     enable : true
-    label : "Get started for free"
+    label : "Apply For Partner"
     link : "#"
     
 professional:
-  name : "Professional Plan"
+  name : "Donate"
   price: "$49"
   price_per : "month"
   info : "Best For Professionals"
@@ -32,11 +32,11 @@ professional:
   - "Best Dashboard"
   button:
     enable : true
-    label : "Get started for free"
+    label : "Donate Us"
     link : "#"
     
 business:
-  name : "Business Plan"
+  name : "Member"
   price: "$49"
   price_per : "month"
   info : "Best For Large Individuals"
@@ -46,12 +46,12 @@ business:
   - "Time-Critical Services"
   button:
     enable : true
-    label : "Get started for free"
+    label : "Join Us"
     link : "#"
 
 call_to_action:
   enable : true
-  title : "Need a larger plan?"
+  title : "Spread Our Cause"
   image : "images/cta.svg"
   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
   button:
