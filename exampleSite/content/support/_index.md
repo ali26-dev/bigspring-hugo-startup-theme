@@ -23,7 +23,7 @@ professional:
   name : "Give a Donation"
   price: "$49"
   price_per : "month"
-  info : "Your support enables us to help people who need it the most. It is because of generous donors that we have been able to pull it so far."
+  info : "Your support enables us to help people who need it the most."
   services:
   - "Express Service"
   - "Customs Clearance"
