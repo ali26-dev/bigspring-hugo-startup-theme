@@ -1,8 +1,8 @@
 ---
-title: "Adversus is a web-based dialer and practical CRM solution"
+title: "Students suufering in education"
 date: 2020-04-18T10:07:21+06:00
 # post image
-image: "images/blog/post-1.jpg"
+image: "images/blog/original.jpg"
 # post type (regular/featured)
 type: "featured"
 # meta description
@@ -13,8 +13,14 @@ draft: false
 
 
 #### Heading example
+Challenge
+Today Computer knowledge is a must for everyone without any exemption. Learning computer courses to rural under privileged school children is out of their reach. They are unable to study by paying heavy fees in institutions. CHHASE will provide computer basics course with our highly trained faculties and course materials. Learning computer basic will give Knowledge and confidence to go for their further studies and a good job.
 
-Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.
+Solution
+This project will provide computer basics to 150 rural under privileged school children, who are unable to study by paying heavy fees in institutions. CHHASE will provide computer basics course with our highly trained faculties and course materials.With out this provision, these under privilege children cannot go for these computer courses, which is a must for higher education and for decent job today. Learning computer basic will give confidence to go for their further studies.
+
+Long-Term Impact
+CHHASE serves students from 1st grade through 12th grade and supports them to reach their full academic potential, prepare for college, and in turn give their time and talents back to their communities. We partner with parents, teachers, and the community to address the comprehensive education needs of our children and advocate for healthy families.
 
 # Heading 1 
 <br>
