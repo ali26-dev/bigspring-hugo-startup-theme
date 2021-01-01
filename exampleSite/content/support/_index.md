@@ -46,7 +46,7 @@ business:
   button:
     enable : true
     label : "Join Us"
-    link : "#"
+    link : "join"
 
 call_to_action:
   enable : true
