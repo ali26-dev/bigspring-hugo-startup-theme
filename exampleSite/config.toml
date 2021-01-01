@@ -98,11 +98,11 @@ name = "Provide us a Laptop"
 URL = "#"
 
 [[menu.footer_middle]]
-name = "Be a Mentor"
+name = "Become a Mentor"
 URL = "#"
 
 [[menu.footer_middle]]
-name = "Be a Volunteer"
+name = "Become a Volunteer"
 URL = "#"
 
 
@@ -111,14 +111,17 @@ URL = "#"
 [[menu.footer_right]]
 name = "Diversity Statement"
 URL = "diversity-statement"
+weight = 1
 
 [[menu.footer_right]]
 name = "Code of Conduct"
 URL = "coc"
+weight = 2
 
 [[menu.footer_right]]
 name = "FAQs"
 URL = "faq"
+weight = 3
 
 [[menu.footer_right]]
 name = "Blogs"
