@@ -51,7 +51,42 @@ business:
 #################### -End Pricing -##########################
 
 ###################### -custom Notable mentions-##################
-        
+
+feature:
+  enable : true
+  title : "Notable Mentions"
+  feature_item:
+    # feature item loop
+    - name : "Women"
+      icon : "ti-pulse"
+      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      
+    # feature item loop
+    - name : "Disables"
+      icon : "ti-package"
+      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      
+    # feature item loop
+    - name : "Transgenders"
+      icon : "ti-alarm-clock"
+      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      
+    # feature item loop
+    - name : "Madarsah"
+      icon : "ti-credit-card"
+      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      
+    # feature item loop
+    - name : "Diversity"
+      icon : "ti-cloud-up"
+      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      
+    # feature item loop
+    - name : "Online"
+      icon : "ti-headphone-alt"
+      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+
+
 ##########################- end notable mentions-#############
 
 ##########################- call to action- ######################
