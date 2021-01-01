@@ -25,11 +25,10 @@ professional:
   price_per : "month"
   info : "Your support enables us to help people who need it the most."
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
-  - "Cloud Service"
-  - "Best Dashboard"
+  - "Provide Us a Laptop"
+  - "Donate in Honor"
+  - "Give or Redeem Gift Cards"
+  - "Become a Sponsor"
   button:
     enable : true
     label : "Donate Us"
@@ -37,13 +36,13 @@ professional:
     
 business:
   name : "Become a Member"
-  price: "$49"
-  price_per : "month"
+  price: ""
+  price_per : ""
   info : "We encourage volunteers to be an active part of our organization and share our vision and purpose."
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
+  - ""
+  - ""
+  - ""
   button:
     enable : true
     label : "Join Us"
