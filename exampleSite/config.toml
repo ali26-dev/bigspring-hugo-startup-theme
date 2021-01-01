@@ -92,6 +92,7 @@ URL = "about"
 [[menu.footer_middle]]
 name = "Donate in Honor"
 URL = "#"
+weight = 4
 
 [[menu.footer_middle]]
 name = "Provide us a Laptop"
@@ -100,10 +101,12 @@ URL = "#"
 [[menu.footer_middle]]
 name = "Become a Mentor"
 URL = "#"
+weight = 3
 
 [[menu.footer_middle]]
 name = "Become a Volunteer"
 URL = "#"
+weight = 1
 
 
 
