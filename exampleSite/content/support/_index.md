@@ -7,13 +7,13 @@ draft: false
 
 basic:
   name : "Become Our Partner"
-  price: "$49"
-  price_per : "month"
+  price: ""
+  price_per : ""
   info : "We need your continued support to enable us to continue with our work with the same vigour and passion."
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
+  - ""
+  - ""
+  - ""
   button:
     enable : true
     label : "Apply For Partner"
