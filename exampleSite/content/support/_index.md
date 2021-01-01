@@ -1,6 +1,6 @@
 ---
 title: "Support Us"
-subtitle: ""
+subtitle: "An act of kindness however small is never wasted."
 # meta description
 description: "This is meta description"
 draft: false
@@ -20,7 +20,7 @@ basic:
     link : "#"
     
 professional:
-  name : "Donate"
+  name : "Give a Donation"
   price: "$49"
   price_per : "month"
   info : "Best For Professionals"
@@ -36,7 +36,7 @@ professional:
     link : "#"
     
 business:
-  name : "Member"
+  name : "Become a Member"
   price: "$49"
   price_per : "month"
   info : "Best For Large Individuals"
@@ -56,6 +56,6 @@ call_to_action:
   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
   button:
     enable : true
-    label : "Contact Us"
+    label : "Share"
     link : "contact"
 ---
