@@ -9,7 +9,7 @@ basic:
   name : "Become Our Partner"
   price: "$49"
   price_per : "month"
-  info : "Best For Small Individuals"
+  info : "We need your continued support to enable us to continue with our work with the same vigour and passion."
   services:
   - "Express Service"
   - "Customs Clearance"
@@ -23,7 +23,7 @@ professional:
   name : "Give a Donation"
   price: "$49"
   price_per : "month"
-  info : "Best For Professionals"
+  info : "Your support enables us to help people who need it the most. It is because of generous donors that we have been able to pull it so far."
   services:
   - "Express Service"
   - "Customs Clearance"
@@ -39,7 +39,7 @@ business:
   name : "Become a Member"
   price: "$49"
   price_per : "month"
-  info : "Best For Large Individuals"
+  info : "We encourage volunteers to be an active part of our organization and share our vision and purpose."
   services:
   - "Express Service"
   - "Customs Clearance"
