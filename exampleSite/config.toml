@@ -69,30 +69,41 @@ weight = 5
 
 # footer menu left
 [[menu.footer_left]]
-name = "About Us"
+name = "Our Services"
 URL = "about"
 
 [[menu.footer_left]]
-name = "Blog"
-URL = "blog"
+name = "Our Partners"
+URL = "about"
 
 [[menu.footer_left]]
-name = "Contributers"
-URL = "#"
+name = "Our Team"
+URL = "about"
+
+[[menu.footer_left]]
+name = "Our Events"
+URL = "about"
+
 
 
 # footer menu middle
 [[menu.footer_middle]]
-name = "Sponsors"
+name = "Donate in Honor"
 URL = "#"
 
 [[menu.footer_middle]]
-name = "Programs"
+name = "Provide us a Laptop"
 URL = "#"
 
 [[menu.footer_middle]]
-name = "Donate us"
+name = "Be a Mentor"
 URL = "#"
+
+[[menu.footer_middle]]
+name = "Be a Volunteer"
+URL = "#"
+
+
 
 # footer menu right
 [[menu.footer_right]]
@@ -104,8 +115,13 @@ name = "Code of Conduct"
 URL = "coc"
 
 [[menu.footer_right]]
-name = "FAQ"
+name = "FAQs"
 URL = "faq"
+
+[[menu.footer_right]]
+name = "Blogs"
+URL = "blog"
+
 
 #################### default parameters ################################
 [params]
@@ -118,9 +134,9 @@ author = "ali26.dev"
 contact_form_action = "#" # contact form works with https://formspree.io
 
 ########### footer content ##########
-footer_menu_left = "Company"
-footer_menu_middle = "Product"
-footer_menu_right = "Support"
+footer_menu_left = "About Us"
+footer_menu_middle = "Support"
+footer_menu_right = "Non Profit"
 footer_content = "Support cause you care about."
 # copyright
 copyright = "Design and develop by [Ali26](https://ali26.com/)"
