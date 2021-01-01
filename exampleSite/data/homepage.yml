@@ -1,8 +1,8 @@
 ####################### Banner #########################
 banner:
-  title : "LETS  EDUCATE  TO  THOSE  <br> WHO  CAN'T  AFFORD  IT"
+  title : "LETS EDUCATE TO THOSE <br> WHO CAN'T AFFORD IT"
   image : "images/banner-art.svg"
-  content : "The morse code academy (or simply called TMC) is a student-run NGO based in Karachi, Pakistan <br>
+  content : "The Morse Code Academy (or simply called TMC) is a student-run NGO based in Karachi, Pakistan <br>
 directly benefitting over hundreds of children every year, through bi-weekly live welfare <br>
 projects on education, healthcare, livelihood and cleanliness."
   button:
@@ -13,10 +13,10 @@ projects on education, healthcare, livelihood and cleanliness."
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "Our Feature Programs"
   feature_item:
     # feature item loop
-    - name : "Women"
+    - name : "Women in Tech"
       icon : "ti-pulse"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
@@ -36,7 +36,7 @@ feature:
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Diversity"
+    - name : "Graduate"
       icon : "ti-cloud-up"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
@@ -52,19 +52,19 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "Solving Pakistan's one of the most important and criticle problem."
+    - title : "Solving Pakistan's one of the most important and critical problem."
       images:
       - "images/service-1.png"
       - "images/service-2.png"
       - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Education sats, Unemployment stats, World competetivness ranking. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "Education sats, Unemployment stats, World competetivness ranking. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       button:
         enable : true
         label : "Check it out"
         link : "#"
         
     # service item loop
-    - title : "Refer us a Talent, Talent Finding Program"
+    - title : "REFER US A TALENT "
       images:
       - "images/service-1.png"
       content : "We are always looking for talented, skillfull, Young innovators, who want to contribute in science and humanity, we are here for your support and guide. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
@@ -74,28 +74,28 @@ service:
         link : "#"
         
     # service item loop
-    - title : "Be a light, Be a Mentor for those who need you most JOIN OUR MENTORSHIP PROGRAM "
+    - title : "JOIN OUR MENTORSHIP PROGRAM "
       images:
       - "images/service-2.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "Be a light, Be a Mentor for those who need you most . Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       button:
         enable : true
         label : "Check it out"
         link : "#"
         
-    # service item loop
-    - title : "Contribute our cause with your technical or non-technical knowledge, Join Our Volunteering Program"
-      images:
-      - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-      button:
-        enable : true
-        label : "Check it out"
-        link : "#"
+ #   # service item loop
+  #  - title : "BECOME A VOLUNTEER"
+   #   images:
+   #   - "images/service-3.png"
+   #   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+   #   button:
+   #     enable : true
+   #     label : "Check it out"
+  #    link : "#"
         
 ################### Screenshot ########################
 screenshot:
-  enable : true
+  enable : false
   title : "Experience the best <br> workflow with us"
   image : "images/screenshot.svg"
 
@@ -104,10 +104,10 @@ screenshot:
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Want's to join us?"
+  title : "Become a Volunteer"
   image : "images/cta.svg"
   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
   button:
     enable : true
-    label : "Contact Us"
-    link : "contact"
+    label : "Join Us"
+    link : "#"
