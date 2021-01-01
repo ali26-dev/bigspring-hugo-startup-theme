@@ -2,7 +2,7 @@
 title: "Students suufering in education"
 date: 2020-04-18T10:07:21+06:00
 # post image
-image: "images/blog/original.jpg"
+image: "images/blog/learning-student.jpg"
 # post type (regular/featured)
 type: "featured"
 # meta description
