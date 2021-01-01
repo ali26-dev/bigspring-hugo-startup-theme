@@ -95,7 +95,7 @@ service:
         
 ################### Screenshot ########################
 screenshot:
-  enable : false
+  enable : true
   title : "Experience the best <br> workflow with us"
   image : "images/screenshot.svg"
 
