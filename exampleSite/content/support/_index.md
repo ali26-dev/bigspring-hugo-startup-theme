@@ -51,50 +51,6 @@ business:
 #################### -End Pricing -##########################
 
 ###################### -custom Notable mentions-##################
-service:
-  enable : true
-  service_item:
-    # service item loop
-    - title : "Solving Pakistan's one of the most important and critical problem."
-      images:
-      - "images/service-1.png"
-      - "images/service-2.png"
-      - "images/service-3.png"
-      content : "Education sats, Unemployment stats, World competetivness ranking. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-      button:
-        enable : true
-        label : "Check it out"
-        link : "#"
-        
-    # service item loop
-    - title : "REFER US A TALENT "
-      images:
-      - "images/service-1.png"
-      content : "We are always looking for talented, skillfull, Young innovators, who want to contribute in science and humanity, we are here for your support and guide. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-      button:
-        enable : true
-        label : "Check it out"
-        link : "#"
-        
-    # service item loop
-    - title : "JOIN OUR MENTORSHIP PROGRAM "
-      images:
-      - "images/service-2.png"
-      content : "Be a light, Be a Mentor for those who need you most . Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-      button:
-        enable : true
-        label : "Check it out"
-        link : "#"
-        
- #   # service item loop
-  #  - title : "BECOME A VOLUNTEER"
-   #   images:
-   #   - "images/service-3.png"
-   #   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-   #   button:
-   #     enable : true
-   #     label : "Check it out"
-  #    link : "#"
         
 ##########################- end notable mentions-#############
 
