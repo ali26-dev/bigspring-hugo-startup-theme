@@ -71,10 +71,12 @@ weight = 5
 [[menu.footer_left]]
 name = "Our Services"
 URL = "about"
+weight = 1
 
 [[menu.footer_left]]
 name = "Our Partners"
 URL = "about"
+weight = 2
 
 [[menu.footer_left]]
 name = "Our Team"
@@ -139,7 +141,7 @@ footer_menu_middle = "Support"
 footer_menu_right = "Non Profit"
 footer_content = "Support cause you care about."
 # copyright
-copyright = "Design and develop by [Ali26](https://ali26.com/)"
+copyright = "Designed and Maintained by [Ali26](https://ali26.com/)"
 
 # Preloader
 [params.preloader]
