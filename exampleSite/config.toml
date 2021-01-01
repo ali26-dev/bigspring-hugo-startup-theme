@@ -97,11 +97,12 @@ weight = 4
 [[menu.footer_middle]]
 name = "Provide us a Laptop"
 URL = "#"
+weight = 3
 
 [[menu.footer_middle]]
 name = "Become a Mentor"
 URL = "#"
-weight = 3
+weight = 2
 
 [[menu.footer_middle]]
 name = "Become a Volunteer"
