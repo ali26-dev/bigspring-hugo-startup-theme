@@ -20,6 +20,23 @@
   }
 }
 
+.mention-card {
+  border-radius: 50%;
+  padding: 20px;
+  transition: .2s ease;
+  background-color: $white;
+
+  &:hover {
+    @extend .shadow;
+  }
+
+  i {
+    font-size: 30px;
+    color: $primary-color;
+    display: inline-block;
+  }
+}
+
 .footer-list a {
   display: block;
   padding: 5px 0;
