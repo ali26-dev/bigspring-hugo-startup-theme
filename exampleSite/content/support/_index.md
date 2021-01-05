@@ -67,12 +67,12 @@ feature:
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Transgenders"
+    - name : "Non-Binary"
       icon : "ti-alarm-clock"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Madarsah"
+    - name : "Schools"
       icon : "ti-credit-card"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
