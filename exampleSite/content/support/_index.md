@@ -102,5 +102,3 @@ call_to_action:
 
 ########################  -End Call to action- #########################    
 ---
-
-des = "testing"
